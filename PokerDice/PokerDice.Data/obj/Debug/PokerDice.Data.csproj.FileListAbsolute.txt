@@ -1,0 +1,6 @@
+C:\Users\sairam\Source\Repos\PokerDice\PokerDice.Data\bin\Debug\PokerDice.Data.dll
+C:\Users\sairam\Source\Repos\PokerDice\PokerDice.Data\bin\Debug\PokerDice.Data.pdb
+C:\Users\sairam\Source\Repos\PokerDice\PokerDice.Data\obj\Debug\PokerDice.Data.csprojAssemblyReference.cache
+C:\Users\sairam\Source\Repos\PokerDice\PokerDice.Data\obj\Debug\PokerDice.Data.csproj.CoreCompileInputs.cache
+C:\Users\sairam\Source\Repos\PokerDice\PokerDice.Data\obj\Debug\PokerDice.Data.dll
+C:\Users\sairam\Source\Repos\PokerDice\PokerDice.Data\obj\Debug\PokerDice.Data.pdb
